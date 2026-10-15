@@ -1,4 +1,3 @@
-'Change to client component or server component'
 'use client';
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
